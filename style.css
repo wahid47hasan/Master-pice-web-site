@@ -1,7 +1,11 @@
 body{
-
-	background-color: #2196F3
+	background-color: #00D9CC;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width:100%;
 }
+
 
 img{
    	height: 200px
